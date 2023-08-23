@@ -1,0 +1,70 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.centre{
+    text-align: center;
+   
+    
+}
+
+.card-1{
+    margin-top: 50px;
+    font-size: x-large;
+    text-align: justify
+    
+    font-weight: 450;
+
+}
+.card-1 >a{
+    text-decoration: none;
+}
+
+.card-2{
+    background: black;
+    color: whitesmoke;
+}
+.card-2 >p{
+    color: red;
+
+}
+.adjust{
+    display: flex;
+}
+.foot{
+    text-align: justify;
+    margin-left: 170px;
+    margin-right: 170px;
+    color: rgb(130, 126, 126);
+}
+
+.list{
+    list-style-type: none;
+    font-weight: 400;
+    color: rgb(130, 126, 126);
+}
+
+.last-part{
+    display: inline-flex;
+    
+}
+
+.bor{
+    border-right: 1px solid rgb(130, 126, 126);
+   gap: 10px;
+    
+}
+
+.end{
+    text-align: end;
+    color: rgb(130, 126, 126);
+}
+
+.margin{
+    margin-inline-start: 70px;
+}
+    
+    
+
+
